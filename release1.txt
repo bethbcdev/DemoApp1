@@ -1,6 +1,6 @@
 release 1
 
-for work 1 hey pancit
+for work 1
 
 
 This is changes from feature/work1
