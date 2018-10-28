@@ -1,5 +1,6 @@
 release 1
 
-working copy 2
+for work 1
 
-Mga pagbabago galing sa feature/work2
+
+This is changes from feature/work1
